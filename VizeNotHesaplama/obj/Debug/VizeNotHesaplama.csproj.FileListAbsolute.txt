@@ -1,0 +1,12 @@
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\VizeNotHesaplama.exe.config
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\VizeNotHesaplama.exe
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\VizeNotHesaplama.pdb
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\EntityFramework.dll
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\EntityFramework.xml
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\obj\Debug\VizeNotHesaplama.csprojAssemblyReference.cache
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\obj\Debug\VizeNotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\obj\Debug\VizeNotHesaplama.csproj.CopyComplete
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\obj\Debug\VizeNotHesaplama.exe
+C:\Users\fdogan\Documents\Visual Studio 2017\Projects\VizeNotHesaplama\VizeNotHesaplama\obj\Debug\VizeNotHesaplama.pdb
